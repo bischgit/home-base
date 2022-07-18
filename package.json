@@ -1,0 +1,20 @@
+{
+  "name": "home-base",
+  "version": "1.0.0",
+  "description": "This is an SQL project demonstrating a database that user can store and manipulate employee information as needed for organization purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bischgit/home-base.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bischgit/home-base/issues"
+  },
+  "homepage": "https://github.com/bischgit/home-base#readme",
+  "keywords": []
+}
